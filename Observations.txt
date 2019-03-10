@@ -1,0 +1,5 @@
+1. There are more rides in Urban cities than Suburban / Rural.
+
+2. The avergae fare is higher for Rural
+
+3. Since the number of rides and hence drivers are higher for Urban cities, the total fare is also highest for Urban.
